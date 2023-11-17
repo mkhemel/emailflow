@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .navbar-dropdown-account-wrapper:hover{
     background-color: transparent !important;
 }
@@ -13,4 +16,9 @@
 
 .navbar .navbar-collapse .nav-link:first-child{
     padding: 8px 16px !important;
+}
+
+.home-chart-custom{
+    width: calc(100% + 14px);
+    transform: translateX(-7px);
 }
