@@ -1,0 +1,16 @@
+.navbar-dropdown-account-wrapper:hover{
+    background-color: transparent !important;
+}
+
+
+.navbar-dropdown-account-wrapper.show .account-dropdown-arrow{
+    transform: rotate(180deg);
+}
+
+.navbar-brand-logo{
+    max-width: 144px !important;
+}
+
+.navbar .navbar-collapse .nav-link:first-child{
+    padding: 8px 16px !important;
+}
